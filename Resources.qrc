@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>about.bmp</file>
+        <file>copy.bmp</file>
+        <file>cut.bmp</file>
+        <file>exit.bmp</file>
+        <file>feedback.bmp</file>
+        <file>new.bmp</file>
+        <file>open.bmp</file>
+        <file>paste.bmp</file>
+        <file>printer.bmp</file>
+        <file>redo.bmp</file>
+        <file>save.bmp</file>
+        <file>saveAs.bmp</file>
+        <file>undo.bmp</file>
+        <file>zoom in.bmp</file>
+        <file>zoom out.bmp</file>
+        <file>type.bmp</file>
+    </qresource>
+</RCC>

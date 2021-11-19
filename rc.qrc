@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>printer.bmp</file>
+    </qresource>
+</RCC>
